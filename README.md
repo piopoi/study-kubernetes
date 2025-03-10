@@ -2,7 +2,7 @@
 
 ## 목적
 
-[쿠버네티스 교과서](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005402745){:target="\_blank"} 책을 읽으며 자유롭게 내용을 정리한다.
+[쿠버네티스 교과서](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005402745) 책을 읽으며 자유롭게 내용을 정리한다.
 
 ## 정리 원칙
 
@@ -11,4 +11,4 @@
 
 ## 챕터 별 링크
 
-[Chapter01](/ch1/ch1.md){:target="\_blank"}
+[Chapter01](/ch1/ch1.md)
