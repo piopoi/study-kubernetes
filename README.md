@@ -4,6 +4,8 @@
 
 [쿠버네티스 교과서](https://ebook-product.kyobobook.co.kr/dig/epd/ebook/E000005402745) 책을 읽으며 자유롭게 내용을 정리한다.
 
+- 공식 예제 코드: [https://github.com/gilbutITbook/kiamol](https://github.com/gilbutITbook/kiamol)
+
 ## 정리 원칙
 
 - 챕터명, 코드 등 내용은 책과 동일하지 않을 수 있다.
