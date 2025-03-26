@@ -14,3 +14,4 @@
 ## 챕터 별 링크
 
 [Chapter01](/ch1/ch1.md)
+[Chapter02](/ch2/ch2.md)
