@@ -3,7 +3,7 @@
 쿠버네티스는 컨테이너로 어플리케이션을 실행하지만, 우리는 컨테이너를 직접 다루지 않는다.  
 컨테이너는 파드에 포함되어 동작하는데, 우리는 파드를 사용해서 컨테이너를 관리한다.
 
-- 2장 명령어 참고: [/gilbutITbook/kiamol/2-14장-명령모음.txt](https://github.com/gilbutITbook/kiamol/blob/main/2-14%EC%9E%A5-%EB%AA%85%EB%A0%B9%EB%AA%A8%EC%9D%8C.txt)
+- 2장 명령어 참고: [2-14장-명령모음](https://github.com/piopoi/study-kubernetes/blob/420c9f62da5cd57d6b04903f9464eb658106efda/ch2/ch2.md)
 
 ## 2.1 쿠버네티스는 어떻게 컨테이너를 실행하고 관리하는가
 
