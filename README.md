@@ -13,5 +13,5 @@
 
 ## 챕터 별 링크
 
-[Chapter01](/ch1/ch1.md)
-[Chapter02](/ch2/ch2.md)
+[Chapter 01. 쿠버네티스 이해하기](/ch1/ch1.md)  
+[Chapter 02. 파드와 디플로이먼트로 컨테이너 실행하기](/ch2/ch2.md)
